@@ -1,1 +1,1 @@
-# basic_lottery_sample
+# Lottery
